@@ -632,6 +632,11 @@
       "name": "War",
       "description": "Partly or completely set during wartime.",
       "is_adult": false
+    },
+    {
+      "name": "Human Experimentation",
+      "description": "Dark Theme, centered around characters being experimented on?? I am not sure if this is centered mostly around an organisation conducting these and if they are particularly evil. (Maybe adult content)",
+      "is_adult": false
     }
   ],
   "Setting-Universe": [
@@ -2004,11 +2009,6 @@
     {
       "name": "Tragedy",
       "description": "Centers around tragic events and unhappy endings.",
-      "is_adult": false
-    },
-    {
-      "name": "Human Experimentation",
-      "description": "Dark Theme, centered around characters being experimented on?? I am not sure if this is centered mostly around an organisation conducting these and if they are particularly evil. (Maybe adult content)",
       "is_adult": false
     }
   ],
