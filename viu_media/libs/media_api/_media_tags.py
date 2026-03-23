@@ -15,7 +15,7 @@ class MediaTag(Enum):
     # A manga in the 'yonkoma' format, which consists of four equal-sized panels arranged in a vertical strip. (is_adult: False)
     _4_KOMA = "4-koma"
 
-    # Contains animation that is primarily done in black and white. (is_adult: False)
+    # Contains animation that is primarily done in black and white. (is_adult: False)e
     ACHROMATIC = "Achromatic"
 
     # Produced in order to promote the products of a certain company. (is_adult: False)
@@ -402,6 +402,9 @@ class MediaTag(Enum):
 
     # Partly or completely set during wartime. (is_adult: False)
     WAR = "War"
+
+    # Dark Theme, centered around characters being experimented on?? I am not sure if this is centered mostly around an organisation conducting these and if they are particularly evil. (Maybe adult content) (is_adult: False)
+    HUMAN_EXPERIMENTATION = "Human Experimentation"
 
     #
     # SETTING-UNIVERSE
